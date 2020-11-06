@@ -1,3 +1,4 @@
+import numpy as pd
 import pandas as pd 
 from graphviz import Digraph
 dot = Digraph()
